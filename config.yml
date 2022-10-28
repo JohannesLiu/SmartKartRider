@@ -1,0 +1,3 @@
+  base:
+    WORKPATH: D:/GameProjects/Kartrider/SmartKartRider
+    RAW_DATA_PATH: ${base.host}/raw_data/US
